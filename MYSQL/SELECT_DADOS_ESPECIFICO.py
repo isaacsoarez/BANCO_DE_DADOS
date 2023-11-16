@@ -21,5 +21,3 @@ meucursor.execute("SELECT * FROM frutas WHERE pais='Eua'")
 resultado = meucursor.fetchall()
 for row in resultado:
     print(row)
-
-

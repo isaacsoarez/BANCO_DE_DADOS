@@ -20,4 +20,3 @@ try:
     print('Tabela Renomeada com Sucesso')
 except:
     print('Ocorreu um erro ao renomear')
-
