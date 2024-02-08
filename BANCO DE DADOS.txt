@@ -1,0 +1,49 @@
+                  BANCO DE DADOS
+
+Dados estruturados(tabela)
+Dados semiestruturados(pirâmide)
+Dados não estruturados(objetos)
+
+O banco de dados foi criado para armazernar os dados(de forma organizada)
+
+
+SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS
+SGBD = Contolar/Acessar/Criar/Avaliar/Deletar
+- Controle de Acesso
+- Redução de Redundância
+- Armazenamento Persistente de Dados
+- Mutiplas Interfaces para Utilização
+- Manutenção de Restrções Integradas
+- Representação Complexa entre Dados
+- Recuperação de Dados
+
+
+ANSI SQL = Padrão de criação para qualquer banco de dados
+
+
+Fases para criar um Banco de Dados
+1º Abstração de dados(entednimento do projeto)
+2º Estruturação(qual sera sua estrutura? quais serao os dados armazenados? restrições de digito...)
+3º
+
+Esquema = Montagem de um protótipo(Brainstorm)
+Instância = Conjunto de dados que serão armazenados em um período de tempo
+
+
+Projeto Conceitual(Teoria)
+Projeto Logico(Criação)
+Orojeto Físico(Genrenciamento)
+
+Trigger = 
+
+Independência de Dados
+FÍSICA: Modificação no esquema físico(Inteiro, Hexadecimal e etc...)
+LÓGICA: Modificação no esquema lógico(Adição  de atributos, Nome, Cidade...)
+
+Modelo de Dados
+
+1- Modelo Lógico Objetos(não estruturados)
+2- Modelo Lógico Registros(papelada)
+3- Modelo Físico de Dados(telação de tabelas e colunas)
+
+MODELAGEM DE DADOS
