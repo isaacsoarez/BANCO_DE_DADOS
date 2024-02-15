@@ -34,7 +34,7 @@ Projeto Conceitual(Teoria)
 Projeto Logico(Criação)
 Orojeto Físico(Genrenciamento)
 
-Trigger = 
+Trigger =  é um procedimento armazenado no banco de dados que é chamado automaticamente sempre que ocorre um evento especial no banco de dados. Por exemplo, um acionador pode ser chamado quando uma linha é inserida em uma tabela especificada ou quando determinadas colunas da tabela estão sendo atualizadas.
 
 Independência de Dados
 FÍSICA: Modificação no esquema físico(Inteiro, Hexadecimal e etc...)
@@ -47,3 +47,51 @@ Modelo de Dados
 3- Modelo Físico de Dados(telação de tabelas e colunas)
 
 MODELAGEM DE DADOS
+-----------------------------------------------------
+AULA 02 
+Componentes de um Banco de Dados
+
+1- Base de Dados
+2- Sistema Gerenciador
+3- Linguagem de Exploração
+4- Programas Adicionais
+
+SQL = Structured Query Language
+
+MER = O MER permite que você crie um modelo conceitual do seu banco de dados, que representa as entidades envolvidas, seus relacionamentos e atributos. 
+Entidade = Clientes(Categoria)
+Atributos = Informações da Tabela
+Relacionamentos = Ligação
+________________                      
+|   CLIENTES    |
+|               |
+|     Nome      |
+|      Cpf      |
+|    Telefone   |
+|               |
+|_______________|
+
+MER x DER(Modelagem x Organização Gráfica)
+
+Tipo de Dados = Int, Str, Bol
+
+TIPOS DE ATRIBUTOS
+1- Simples(NOME: não possuí característica específica)
+2- Composto(ENDEREÇO: rua,  cep, bairro)
+3- Multivalorado(TELEFONE: podem ter vários)
+4- Determinante(CNPJ: Algo que não pode ter outro igual)
+5- Identificador(PK: Chave Primária)
+
+Entidade A + Entidade B = Relacionamento
+
+Unário(recursivo) = Cliente56 se casa com Cliente56
+Binário(direto) = Funcionário trabalha no Setor4
+Ternário() = Médico prescreve um Medicamento a um Paciente
+
+CARDINALIDADE = NÚMERO DE ITENS QUE SE RELACIONAM
+
+MÁXIMA = número máximo que posso relacionar(comprar)
+
+MINIÍMA = número minímo que posso relacionar(comprar)
+
+-----------------------------------------------------
