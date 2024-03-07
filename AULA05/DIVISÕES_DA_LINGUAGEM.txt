@@ -1,0 +1,11 @@
+A linguagem SQL é dividida em 5 conjuntos de comandos, cada um com um objetivo específico
+
+A) DDL(Data Definition Language): Tem omo objetivo criar e alterar a estrutura do banco de dados
+
+B) DML(Data Manipulation Language): Tem omo objetivo criar, alterar e manipular os dados contidos em um banco de dados
+
+C) DQL(Data Query Language): É responsável pela consulta(recuperação) de dados inseridos no banco
+
+D) DCL(Data Control Language): Tem como objetico controlar o acesso ao banco de dados
+
+E) DTL(Data Transaction Language): É responsável pelo gerenciamento das transções ocorridas em um banco de dados
